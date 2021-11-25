@@ -1,0 +1,10 @@
+.container {
+  display: grid;
+  place-content: center;
+  height: 50vh;
+}
+
+.container p {
+  font-size: 1.5rem;
+  text-transform: capitalize;
+}

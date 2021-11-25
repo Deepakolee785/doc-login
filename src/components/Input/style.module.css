@@ -1,0 +1,20 @@
+.input,
+.input:focus {
+  width: 100%;
+  outline: none;
+  border: 0;
+  border-bottom: 2px solid #8adbdb;
+  margin: 1.5rem 0;
+  font-size: 0.9rem;
+  font-weight: 300;
+  line-height: 0.875rem;
+}
+
+.input::placeholder {
+  color: rgb(128, 128, 128);
+  font-weight: 300;
+}
+
+.error {
+  margin-top: -1.2rem;
+}
